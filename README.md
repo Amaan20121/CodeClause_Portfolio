@@ -1,2 +1,3 @@
 # CodeClause_Portfolio
-Personal Portfolio WEbsite
+Personal Portfolio Website 
+with HTML, CSS and Javascript
