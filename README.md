@@ -1,3 +1,3 @@
-# CodeClause_Portfolio
+# Personal_Portfolio
 Personal Portfolio Website 
 with HTML, CSS and Javascript
